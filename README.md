@@ -11,3 +11,6 @@ Open to people to join.
 
 ## Setup & Requirements
 This project requires a computer and internet.
+
+## What to eat
+Cookies
